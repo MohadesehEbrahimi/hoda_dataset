@@ -1,0 +1,22 @@
+# Learning rate schedule
+
+
+epoch 0: 0.001
+epoch 1: 0.001
+epoch 2: 0.001
+epoch 3: 0.001
+epoch 4: 0.001
+epoch 5: 0.0001
+epoch 6: 0.0001
+epoch 7: 0.0001
+epoch 8: 0.0001
+epoch 9: 0.0001
+epoch 10: 1e-05
+epoch 11: 1e-05
+epoch 12: 1e-05
+epoch 13: 1e-05
+epoch 14: 1e-06
+epoch 15: 1e-06
+epoch 16: 1e-06
+epoch 17: 1e-06
+
